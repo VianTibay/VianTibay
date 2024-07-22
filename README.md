@@ -84,7 +84,6 @@ text-shadow: 0 0 1px #000;
 
 
 
-## Connect With me
 # 🤝🏻 Connect with Me
 <p align="center">
 &nbsp; <a href="https://www.instagram.com/xian.5555" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a>    
@@ -93,8 +92,14 @@ text-shadow: 0 0 1px #000;
 &nbsp; <a href="202310591@fit.edu.ph" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
 </p>
 
-# top languag
+# 📖 top language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VianTibay&text_color=daf7dc&bg_color=151515)
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Hello](hello.svg)
+
+
+
 <br>
 
 
