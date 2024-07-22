@@ -69,7 +69,7 @@
 
 ## I'm [Rotov](https://www.facebook.com/profile.php?id=100077750267944) 👋
 
-# 📰 Talking about Information
+### 📰 Talking about Information
 
 <img align="right" width=200px alt="PNG" src="https://i.pinimg.com/originals/a0/10/21/a010215b786ada4176ae237b5b154310.gif" />
 
